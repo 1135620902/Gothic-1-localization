@@ -320,8 +320,8 @@ var int FindGolemHearts;
 
 	const int LPCOST_TALENT_1H_1				= 10;
 	const int LPCOST_TALENT_1H_2				= 20;
-	const int LPCOST_TALENT_2H_1				= 30;
-	const int LPCOST_TALENT_2H_2				= 40;
+	const int LPCOST_TALENT_2H_1				= 10;
+	const int LPCOST_TALENT_2H_2				= 20;
 
 	const int LPCOST_TALENT_BOW_1				= 10;
 	const int LPCOST_TALENT_BOW_2				= 20;
