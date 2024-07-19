@@ -121,7 +121,7 @@ Scripts/content/Story/Log_Constants.d:169,"Whistler war zufrieden, als ich ihm d
 Scripts/content/Story/Log_Constants.d:170,"Whistler war zufrieden, als ich ihm das gewünschte Schwert übergab.Leider nützt mir das nicht viel, denn Schatten kann ich nicht mehr werden.",当我把威斯特想要的剑给了他时，他十分满意。不幸地是，我并没有得到什么好处，因为我再也不能成为一名巡逻兵了。,,FALSE,CH1_JoinOC_16,,
 Scripts/content/Story/Log_Constants.d:171,Fingers ist sehr zufrieden mit meinen Fortschritten.,宾克斯对我的进展十分满意。,,,CH1_JoinOC_17,,
 Scripts/content/Story/Log_Constants.d:172,"Fingers wird ein gutes Wort für mich einlegen, wenn ich ein Diebestalent lerne.",当我学会偷窃技能时，宾克斯就会为我说好话。,,,CH1_JoinOC_18,,
-Scripts/content/Story/Log_Constants.d:173,"Um bei Gomez Leuten im Alten Lager aufgenommen zu werden, soll ich mich bei Thorus melden.",要加入旧营地里的葛梅兹的手下，我必须去拜访一下索拉斯。,,,CH1_JoinOC_19,,
+Scripts/content/Story/Log_Constants.d:173,"Um bei Gomez Leuten im Alten Lager aufgenommen zu werden, soll ich mich bei Thorus melden.",要加入旧营地里的葛梅兹的手下，\n我必须去拜访一下索拉斯。,,,CH1_JoinOC_19,,
 Scripts/content/Story/Log_Constants.d:174,"Um aufgenommen zu werden, muss ich wichtige Leute im Aussenring beeindrucken und eine Prüfung des Vertrauens bei Diego ablegen.",要加入他们，我必须给外部竞技场里的重要人物留下好印像，并能通过迪哥的信仰考验。,,,CH1_JoinOC_20,,
 Scripts/content/Story/Log_Constants.d:175,"Diego hat mir eine Audienz bei Gomez verschafft. Jetzt kann ich einer von Gomez Leuten werden und die Burg betreten, ich muss nur noch zu Thorus gehen.",迪哥给我推荐了一位葛梅兹身边的人。现在，我可以成为一名葛梅兹的手下了，也可以进入城堡，但我必须先去看看索拉斯。,,,CH1_JoinOC_21,,
 Scripts/content/Story/Log_Constants.d:176,"Einflussreiche Schatten sind Dexter, Sly und Fingers",德克斯特、史力和宾克斯是有势力的巡逻兵。,,FALSE,CH1_JoinOC_22,,
